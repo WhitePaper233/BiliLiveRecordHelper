@@ -1,0 +1,4 @@
+room_id: 233
+
+# 日志等级，必须为“DEBUG“、”INFO“、”WARNING“、”ERROR“或”CRITICAL“
+log_level: DEBUG
