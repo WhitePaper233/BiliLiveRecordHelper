@@ -35,7 +35,7 @@ class Config:
         return self.__config
 
     @property
-    def room_id(self) -> str:
+    def room_id(self) -> int:
         return self.__config['room_id']
 
     @property
